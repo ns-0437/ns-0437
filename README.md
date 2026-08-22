@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @ns-0437 (Navin Kumar)
 - 👀 I'm interested in retrieval systems: chunking strategies, hybrid dense + BM25 fusion, HyDE, cross-encoder reranking, metadata channels, and the evaluation that decides which of them earn their place
-- 🤖 I also work on production ML and the machinery that keeps it honest: PyTorch, RT-DETR, BERT, FastAPI, Docker, GCP
+- 🤖 I also work on production ML and the machinery that keeps it honest: EmbeddingGemma-300m, ChromaDB, LLaVA captioning, Tesseract OCR, RT-DETR, PyTorch, FastAPI, Docker, Cloud Run
 - 🌱 I work as an AI Engineer at DigitalxCode, shipping agentic pipelines that run unattended
 - 💞️ I'm looking to collaborate on open source around agent reliability, supervision and observability for long-horizon systems
 - 📫 How to reach me navinkumar0437 at gmail
